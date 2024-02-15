@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @preethi9444
+- 👀 I’m interested in codingg ...
+- 🌱 I’m currently learning Python ...
+- ⚡ Fun fact: I love reading fictional books...
+
+<!---
+preethi9444/preethi9444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
